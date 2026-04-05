@@ -9,25 +9,25 @@
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💻 Full Stack Developer passionate about building scalable, efficient, and real-world impactful applications.
-- 🎓 B.Tech CSE student at MITS Gwalior (CGPA: 8.51) with a strong foundation in computer science.
-- ⚡ Specialize in Next.js, React, TypeScript, Node.js, Express, REST APIs, and MongoDB with system design basics.
-- 🔐 Experienced in secure authentication (JWT, RBAC), backend optimization, and real-time data handling.
-- 📊 Built production-ready projects including a finance dashboard, AI mental health platform, and ML disease detection system.
-- 🧠 Strong problem solver with 300+ DSA problems solved and a LeetCode rating of 1600+.
-- 🏆 Achieved Top 30 in Smart India Hackathon and secured 5th rank in Code Coalescence Hackathon.
-- 🌱 Currently exploring advanced system design, scalable architectures, and AI integration.
-- 🤝 Open to internships and collaboration on impactful and innovative projects.
+💻 Full Stack Developer passionate about building scalable, efficient, and real-world impactful applications.
+🎓 B.Tech CSE student at MITS Gwalior (CGPA: 8.51) with a strong foundation in computer science.
+⚡ Specialize in Next.js, React, TypeScript, Node.js, Express, REST APIs, and MongoDB with system design basics.
+🔐 Experienced in secure authentication (JWT, RBAC), backend optimization, and real-time data handling.
+📊 Built production-ready projects including a finance dashboard, AI mental health platform, and ML disease detection system.
+🧠 Strong problem solver with 300+ DSA problems solved and a LeetCode rating of 1600+.
+🏆 Achieved Top 30 in Smart India Hackathon and secured 5th rank in Code Coalescence Hackathon.
+🌱 Currently exploring advanced system design, scalable architectures, and AI integration.
+🤝 Open to internships and collaboration on impactful and innovative projects.
 
 
 ## 🧠 My Focus Areas
-- 🚀 Scalable and production-grade full stack development
-- 🔐 Secure authentication & backend architecture (JWT, RBAC)
-- ⚡ High-performance APIs & backend optimization
-- 🏗️ System design for real-world, high-impact applications
-- 🤖 AI/ML integration into web platforms
-- 🧼 Clean, maintainable, and modular code practices
-- 🧠 Strong problem-solving using DSA and logical thinking
+🚀 Scalable and production-grade full stack development
+🔐 Secure authentication & backend architecture (JWT, RBAC)
+⚡ High-performance APIs & backend optimization
+🏗️ System design for real-world, high-impact applications
+🤖 AI/ML integration into web platforms
+🧼 Clean, maintainable, and modular code practices
+🧠 Strong problem-solving using DSA and logical thinking
 
 
 ## 📊 GitHub Stats & Trophies
