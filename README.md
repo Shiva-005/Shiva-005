@@ -81,14 +81,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" style="background:white; padding:6px; border-radius:8px;"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="60" style="background:white; padding:6px; border-radius:8px;"/>&nbsp;
+  <!-- <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="60" style="background:white; padding:6px; border-radius:8px;"/>&nbsp; -->
 </p>
 
 ---
 
 ### 🗄️ Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
 </p>
 
